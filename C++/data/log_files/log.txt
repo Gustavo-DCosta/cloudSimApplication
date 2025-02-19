@@ -1,0 +1,21 @@
+Username: gdacostapereia@gmail.com
+Finished computation at Thu Dec 26 11:08:23 2024
+Elapsed time: 2e-07s
+--------------------------------------------------
+Username: gustagamerpereira@gmail.com
+Finished computation at Thu Dec 26 11:09:10 2024
+Elapsed time: 1e-07s
+--------------------------------------------------
+Username: gustav
+Finished computation at Fri Dec 27 15:53:09 2024
+Elapsed time: 1.5e-06s
+--------------------------------------------------
+Username: Gutdgabf
+Finished computation at Fri Dec 27 15:54:10 2024
+Elapsed time: 2e-07s
+--------------------------------------------------
+Username: 
+Username: gustagamerpereira@gmail.com
+Finished computation at Fri Dec 27 22:14:34 2024
+Elapsed time: 1.1e-06s
+--------------------------------------------------
