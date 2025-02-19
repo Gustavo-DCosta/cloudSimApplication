@@ -1,0 +1,2 @@
+Investing in a working server to upload the database.
+To start working with http requests and upload from anywhere I want
